@@ -14,7 +14,7 @@ Tech Stack
 
 | Back-end      | Spring Framework Family and .NET-Core  |
 | :---        | :---        |
-| Data Stores   | PostgreSQL, MySQL,SQL Server, Redis, MongoDB, RabbitMQ       |
+| Data Stores   | PostgreSQL, MySQL, SQL Server, Redis, MongoDB and RabbitMQ       |
 | Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, Polly, Rest and SOAP       |
 
 Technical Exprience
@@ -23,7 +23,7 @@ Technical Exprience
 Software Developer | <a href="https://www.sep.ir/"> Saman Electronic Payments </a> | Tehran </br>
 12/2020 - Present</br>
 SEP is a software company that has lots of projects in the FinTech industry. I had the chance to work on many of these projects and begin my new adventure as a dotnet developer.
-- Migrate an existing project (Card to Card Transfer) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
+- Migrate an existing project (<b>Card to Card Transfer</b>) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
 - Refactor the codebase of a highly transactional payment assistant application with more than 8M users called <a href="https://724.ir/" >724</a>.
 - Monitor system with integrating custom metrics, Prometheus, and Grafana 
 - Interview candidates in the tech team 
@@ -36,6 +36,8 @@ Back-end Developer | <a href="https://farazpardazan.com/"> Farazpardazan</a> | T
 Farazpardazan is a B2C mobile solution provider, having a team of 40 developers. The main focus of this company is FinTech, 
 including InsurTech, Payment Assistant, and PFM. 
 I had the chance to work with very professional developers and engineers. 
+- Work on <a href="https://hamrahcard.ir/"> <b> Hamrahcard </b></a> Payment Assistant application with more than 12M users. Hamrahcard is the
+second-ranked payment assistant application in Iran and executes 2M financial transactions per day.
 - Save system from domino failure through adding resilience4j 
 - Monitor system with integrating Spring Actuator, Prometheus, and Grafana 
 - Implement caching policies through adding on each level
@@ -46,7 +48,8 @@ Technologies: Spring (Boot, Data, Test, Security, etc.), OpenFeign, Docker, Post
 
 Back-end Developer | <a href="https://lizbazi.app/" > Lizbazi </a> | Tehran</br>
 10/2019 - 05/2021 </br>
-Lizbazi is a Startup this it's mainly focus is on developing social media for athletes.
+Lizbazi is a Startup this it's main focus is on developing social media for athletes.
+
 Technologies: Spring Boot, MySQL, Nginx
 
 -----------------------------------------------
@@ -60,5 +63,5 @@ Technologies: Spring Boot, Jersey, Oracle Databases, Weblogic and Apache
 Education
 ============
 
-Bachelor’s of Computer Engineering at University of Shahed, Tehran</br>
+Bachelor’s of Computer Engineering at <a href="http://shahed.ac.ir/"> University of Shahed </a>, Tehran</br>
 10/2016 - Present</br>
