@@ -7,9 +7,7 @@
 Professional Summary
 ============
 
-Over 5 years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring and debugging.
-Skilled in Java, Spring, dotNet, Relational databases, Unit and Integration testing and DevOps.
-Also, interested in Microservices and Distributed Systems.
+Over five years of experience in Software Development Life Cycle, including documenting, coding, code reviewing, monitoring, and debugging. Skilled in Java, Spring, dotNet, Relational databases, Unit, and Integration Testing, and DevOps. Also, interested in Microservices and Distributed Systems.
 
 Tech Stack
 ============
@@ -24,11 +22,9 @@ Technical Exprience
 
 Software Developer | <a href="https://www.sep.ir/"> Saman Electronic Payments </a> | Tehran </br>
 12/2020 - Present</br>
-SEP is a software company that has lots of projects in fintech industry. 
-I had the chance to work on many of these projects and begin my new adventure as a dotnet developer.
+SEP is a software company that has lots of projects in the FinTech industry. I had the chance to work on many of these projects and begin my new adventure as a dotnet developer.
 -  Migrated an existing project (Card to Card Transfer) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
 - Refactoring 724 app codebase
-- Developing Core Payment Services for Organization Teams
 - Monitoring system with integrating custom metrics, Prometheus, and Grafana 
 - Interviewing candidates in the tech team 
 
