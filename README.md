@@ -23,10 +23,10 @@ Technical Exprience
 Software Developer | <a href="https://www.sep.ir/"> Saman Electronic Payments </a> | Tehran </br>
 12/2020 - Present</br>
 SEP is a software company that has lots of projects in the FinTech industry. I had the chance to work on many of these projects and begin my new adventure as a dotnet developer.
--  Migrated an existing project (Card to Card Transfer) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
-- Refactoring 724 app codebase
-- Monitoring system with integrating custom metrics, Prometheus, and Grafana 
-- Interviewing candidates in the tech team 
+- Migrate an existing project (Card to Card Transfer) from an old Monolithic WCF service to many .NET-Core services with Microservice architecture
+- Refactor the codebase of a highly transactional payment assistant application with more than 8M users called <a href="https://724.ir/" >724</a>.
+- Monitor system with integrating custom metrics, Prometheus, and Grafana 
+- Interview candidates in the tech team 
 
 Technologies: Dotnet, Docker, SQL Server, Redis, ELK, Prometheus, Grafana, Gitlab and Jira 
 
@@ -36,19 +36,25 @@ Back-end Developer | <a href="https://farazpardazan.com/"> Farazpardazan</a> | T
 Farazpardazan is a B2C mobile solution provider, having a team of 40 developers. The main focus of this company is FinTech, 
 including InsurTech, Payment Assistant, and PFM. 
 I had the chance to work with very professional developers and engineers. 
-- Saving system from domino failure through adding resilience4j 
-- Monitoring system with integrating Spring Actuator, Prometheus, and Grafana 
-- Working on application automatic building with Gitlab CI/CD 
-- Implementing caching policies through adding on each level
+- Save system from domino failure through adding resilience4j 
+- Monitor system with integrating Spring Actuator, Prometheus, and Grafana 
+- Implement caching policies through adding on each level
 
 Technologies: Spring (Boot, Data, Test, Security, etc.), OpenFeign, Docker, PostgreSQL, MySQL, Redis, JPA, Hibernate, Liquibase, Git, Prometheus, Grafana, REST, SOAP, Jira, SonarQube and OneSignal
 
 -----------------------------------------------
 
+Back-end Developer | <a href="https://lizbazi.app/" > Lizbazi </a> | Tehran</br>
+10/2019 - 05/2021 </br>
+Lizbazi is a Startup this it's mainly focus is on developing social media for athletes.
+Technologies: Spring Boot, MySQL, Nginx
+
+-----------------------------------------------
+
 Back-end Developer | <a href="https://nrdc.ir/" > Naji Research and Development co </a> | Tehran</br>
 09/2019 - 10/2020 </br>
-Developed backend of many applications used by policemen with Spring Boot and Jersey.
-
+NRDC is a B2B and B2C company. This company mainly focuses on developing scalable solutions for country-wide usage.
+- Develop a highly transactional application used by policemen with more than 2M transactions per day
 Technologies: Spring Boot, Jersey, Oracle Databases, Weblogic and Apache
 
 Education
