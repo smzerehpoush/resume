@@ -20,7 +20,8 @@ Tech Stack
 | Other         | Docker, Hiberante, JPA, Liquibase, Maven, Git, Grafana, Prometheus, Polly, Rest and SOAP       |
 
 Technical Exprience
------------------------------------------------
+============
+
 Software Developer | <a href="https://www.sep.ir/"> Saman Electronic Payments </a> | Tehran </br>
 12/2020 - Present</br>
 SEP is a software company that has lots of projects in fintech industry. 
