@@ -47,7 +47,12 @@ Technologies: Spring (Boot, Data, Test, Security, etc.), OpenFeign, Docker, Post
 
 Back-end Developer | <a href="https://nrdc.ir/" > Naji Research and Development co </a> | Tehran</br>
 09/2019 - 10/2020 </br>
-Created backend of many applications used by policemen with Spring Boot and Jersey.
+Developed backend of many applications used by policemen with Spring Boot and Jersey.
 
 Technologies: Spring Boot, Jersey, Oracle Databases, Weblogic and Apache
 
+Education
+============
+
+Bachelor’s of Computer Engineering at University of Shahed, Tehran</br>
+10/2016 - Present</br>
